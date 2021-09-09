@@ -3,9 +3,9 @@ Context-React App
 
 Uso de Context en React - Simular conectarse y desconectarse de un app evaluando el uso de Context de React.
 
-## Api remota - gratis de data para el desarrollo
+## REQ | RES - Api data gratis para desarrollo
 
-  https://reqres.in/
+   [https://reqres.in/]( https://reqres.in/)
 
 ## Conectarse
   
